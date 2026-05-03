@@ -10,4 +10,4 @@ ConnectGreaterRichmond reviewed three potential development sites—Durham, Down
 - Resilience under market stress  
 - Public value and catalytic impact  
 
-Across all categories, **Durham Place emerged as the strongest site**. This website summarizes the findings in a clear, public‑facing format.
+Across all categories, **Durham Place emerged as the strongest site**. This website clearly summarizes the findings.
