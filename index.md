@@ -4,7 +4,7 @@ title: Overview
 
 # Recommended Development Site: Durham Place
 
-ConnectGreaterRichmond evaluated three potential development sites—Durham, Downtown, and Glen Allen—to determine where capital should be allocated next. The analysis considered:
+ConnectGreaterRichmond reviewed three potential development sites—Durham, Downtown, and Glen Allen—to determine where capital should be allocated next. The analysis considered:
 
 - Financial strength  
 - Resilience under market stress  
